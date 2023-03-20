@@ -1,2 +1,2 @@
 # Hacker-Rank
-Repo for Hacker Rank problems as a hobbie
+Repo for Hacker Rank problems as a hobbie and learning.
